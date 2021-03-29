@@ -29,13 +29,8 @@ permalinks:
 outputs:
   home:
     - HTML
-    - RSS
-    - JSON
-    - headers
-    - redirects
   section:
     - HTML
-    - RSS
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
